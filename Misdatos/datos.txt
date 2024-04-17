@@ -1,0 +1,7 @@
+Nombre: Manuel
+Apellido: Leiva Diaz
+Altura: 1.80
+Edad: 30
+Peso: 90
+Color-Preferido: negro
+d.n.i: 38079148
